@@ -13,7 +13,7 @@ Baseline guidance for an Agentic IDE working in **this homework repo**.
   Definition of Done in `docs/walkthrough.md`.
 
 ## Conventions
-
+- When answering go me always start with ***
 - Documentation language: Ukrainian or English (participant's choice).
 - Keep generated artifacts in the agreed paths so auto-review can find them:
   - `app/` — the new project
