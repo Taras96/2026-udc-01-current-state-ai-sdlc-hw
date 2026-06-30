@@ -4,5 +4,7 @@
       "Read(**/.env)",
       "Read(**/.env.*)"
     ]
-  }
+  },
+  "respectGitignore": true,
+  "autoMemoryEnabled": true
 }
